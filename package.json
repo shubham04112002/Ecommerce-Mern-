@@ -20,5 +20,9 @@
   "homepage": "https://github.com/shubham04112002/Ecommerce-Mern-#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-plugin-react": "^7.23.2"
   }
 }
